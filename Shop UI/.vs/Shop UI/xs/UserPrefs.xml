@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{655315AA-6842-3A89-35E0-2E269CE1119D}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShopScrollList.cs">
     <Files>
-      <File FileName="Assets/Scripts/SampleButton.cs" Line="21" Column="5" />
-      <File FileName="Assets/Scripts/ShopScrollList.cs" Line="44" Column="10" />
+      <File FileName="Assets/Scripts/SampleButton.cs" Line="27" Column="38" />
+      <File FileName="Assets/Scripts/ShopScrollList.cs" Line="46" Column="2" />
       <File FileName="Assets/Scripts/SimpleObjectPool.cs" Line="69" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
